@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "front": "sibm:block/warpedbarrel_front",
+    "top":   "sibm:block/warpedbarrel_side",
+    "side": "sibm:block/warpedbarrel_side"
+  }
+}

@@ -1,0 +1,21 @@
+{
+    "item.sibm.itembarrelacacia": "Acacia Barrel",
+    "item.sibm.itembarrelbirch": "Birch Barrel",
+    "item.sibm.itembarrelcrimson": "Crimson Barrel",
+    "item.sibm.itembarreldarkoak": "Dark Oak Barrel",
+    "item.sibm.itembarrelhaystack": "Hay Barrel",
+    "item.sibm.itembarreljungle": "Jungle Barrel",
+    "item.sibm.itembarreloak": "Oak Barrel",
+    "item.sibm.itembarrelspruce": "Spruce Barrel",
+    "item.sibm.itembarrelwarped": "Warped Barrel",
+    "block.sibm.barrelblockacacia": "Acacia Barrel",
+    "block.sibm.barrelblockbirch": "Birch Barrel",
+    "block.sibm.barrelblockcrimson": "Crimson Barrel",
+    "block.sibm.barrelblockdarkoak": "Dark Oak Barrel",
+    "block.sibm.barrelblockhaystack": "Hay Barrel",
+    "block.sibm.barrelblockjungle": "Jungle Barrel",
+    "block.sibm.barrelblockoak": "Oak Barrel",
+    "block.sibm.barrelblockspruce": "Spruce Barrel",
+    "block.sibm.barrelblockwarped": "Warped Barrel",
+    "itemGroup.sibm": "Single-Item Barrels"
+}

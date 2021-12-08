@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "front": "sibm:block/acaciabarrel_front",
+    "top":   "sibm:block/acaciabarrel_side",
+    "side": "sibm:block/acaciabarrel_side"
+  }
+}

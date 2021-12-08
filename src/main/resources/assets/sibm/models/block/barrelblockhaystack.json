@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "front": "sibm:block/haystackbarrel_front",
+    "top":   "sibm:block/haystackbarrel_top",
+    "side": "sibm:block/haystackbarrel_side"
+  }
+}

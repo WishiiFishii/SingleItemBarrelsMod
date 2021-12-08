@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+        [
+            "xxx",
+            "zyz",
+            "zzz"
+        ],
+    "key":
+        {
+            "x":
+            {
+                "item": "minecraft:crimson_slab"
+            },
+            "y":
+            {
+                "tag": "forge:chests"
+            },
+            "z":
+            {
+                "item": "minecraft:stripped_crimson_stem"
+            }
+        },
+    "result":
+        {
+            "item": "sibm:itembarrelcrimson",
+            "count": 1
+        }
+}
